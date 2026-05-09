@@ -1,0 +1,171 @@
+{
+  "Kuźnice": {
+    "Dolina Chochołowska (przez Ścieżkę nad Reglami)": 435,
+    "Bystre": 65,
+    "Kasprowy Wierch": 225,
+    "Giewont": 195,
+    "Schronisko na Hali Gąsienicowej (przez Skupniów Upłaz)": 130
+  },
+  "Schronisko na Hali Ornak": {
+    "Smreczyński Staw": 30,
+    "Chuda Przełączka": 150
+  },
+  "Dolina Kościeliska": {
+    "Jaskinia Raptawicka": 30,
+    "Jaskinia Mroźna": 50,
+    "Ciemniak": 240,
+    "Jaskinia Mylna": 30,
+    "Hala Pisana": 50,
+    "Polana na Stołach": 80
+  },
+  "Dolina Chochołowska": {
+    "Siwa Przełęcz": 165,
+    "Trzydniowiański Wierch (przez Polanę Trzydniówka)": 135,
+    "Schronisko na Hali Ornak": 150
+  },
+  "Schronisko na Hali Gąsienicowej": {
+    "Świnicka Przełęcz": 120,
+    "Kasprowy Wierch": 90,
+    "Przełęcz Krzyżne": 165,
+    "Czerwony Staw": 60,
+    "Przeł. Liliowe": 100,
+    "Wierch Poroniec": 205,
+    "Zawrat": 160,
+    "Zmarzły Staw": 85,
+    "Czarny Staw Gąsienicowy": 35
+  },
+  "Kozia Dolinka": {
+    "Orla Perć": 60
+  },
+  "Przełęcz Karb": {
+    "Kościelec": 45
+  },
+  "Dolina Pięciu Stawów Polskich": {
+    "Kozi Wierch": 90
+  },
+  "Dolina Roztoki": {
+    "Schronisko w Dolinie Pięciu Stawów Polskich": 40
+  },
+  "Polana pod Wołoszynem": {
+    "Czerwone Brzeżki": 30
+  },
+  "Czerwona Przełęcz": {
+    "Sarnia Skała": 10
+  },
+  "Droga pod Reglami": {
+    "Dolina ku Dziurze": 25,
+    "Schronisko na Polanie Chochołowskiej": 135,
+    "Dolina za Bramką": 25,
+    "Przysłop Miętusi": 60,
+    "Małołączniak": 240
+  },
+  "Brzeziny": {
+    "Schronisko na Hali Gąsienicowej": 140
+  },
+  "Wodogrzmoty Mickiewicza": {
+    "Schronisko nad Morskim Okiem": 90,
+    "Rówień Waksmundzka": 105,
+    "Schronisko w Dolinie Pięciu Stawów Polskich": 135,
+    "Schronisko w Roztoce": 15
+  },
+  "Morskie Oko": {
+    "Rysy": 250,
+    "Wrota Chałubińskiego": 120
+  },
+  "Świnica": {
+    "Krzyżne": 480
+  },
+  "Kasprowy Wierch": {
+    "Ciemniak": 180,
+    "Świnica": 120
+  },
+  "Toporowa Cyrhla": {
+    "Rówień Waksmundzka": 135
+  },
+  "Dolina Strążyska": {
+    "Giewont": 180
+  },
+  "Nędzówka": {
+    "Przysłop Miętusi": 90
+  },
+  "Schronisko na Polanie Chochołowskiej": {
+    "Trzydniowiański Wierch (przez Dolinę Jarząbczą)": 150,
+    "Grześ": 105,
+    "Długi Upłaz": 150
+  },
+  "Polana Tomanowa Wyżnia": {
+    "Przeł. Tomanowa": 35
+  },
+  "Kończysty Wierch": {
+    "Raczkowa Przełęcz": 65
+  },
+  "Wołowiec": {
+    "Kończysty Wierch": 150
+  },
+  "Zmarzły Staw": {
+    "Kozia Przełęcz": 60,
+    "Zadni Granat": 65
+  },
+  "Dolina Jaworzynka": {
+    "Schronisko na Hali Gąsienicowej": 130
+  },
+  "Schronisko w Dolinie Pięciu Stawów Polskich": {
+    "Schronisko nad Morskim Okiem (przez Szpiglasową Przeł.)": 235,
+    "Przełęcz Krzyżne": 130,
+    "Kozia Przełęcz": 115,
+    "Schronisko nad Morskim Okiem (przez Świstówkę)": 100,
+    "Zawrat": 100
+  },
+  "Czarny Staw Gąsienicowy": {
+    "Skrajny Granat": 105,
+    "Przeł. Karb": 35
+  },
+  "Dolina Białego": {
+    "„Ścieżka nad Reglami”": 75
+  },
+  "Dolina Małej Łąki": {
+    "Kopa Kondracka": 225
+  },
+  "Polana Strążyska": {
+    "Wodospad Siklawica": 10
+  },
+  "Dolina Lejowa": {
+    "Niżnia Kominiarska Polana": 70
+  },
+  "Trzydniowiański Wierch": {
+    "Kończysty Wierch": 60
+  },
+  "Czarny Staw nad Morskim Okiem": {
+    "Mięguszowiecka Przełęcz pod Chłopkiem": 165
+  },
+  "Wielka Krokiew": {
+    "[Koniec trasy nieokreślony]": 15
+  },
+  "Przełęcz Iwaniacka": {
+    "Raczkowa Przełęcz": 155
+  },
+  "Butorowy Wierch": {
+    "Schronisko na Hali Ornak": 175
+  },
+  "Hala Kondratowa": {
+    "Przeł. Pod Kopą Kondracką": 90
+  },
+  "Jaszczurówka": {
+    "Toporowa Cyrhla": 155
+  },
+  "Palenica Białczańska": {
+    "Rusinowa Polana": 50
+  },
+  "Grześ": {
+    "Wołowiec": 105
+  },
+  "Zielony Staw w Dolinie Gąsienicowej": {
+    "Przeł. Karb": 30
+  },
+  "Zazadnia": {
+    "Rusinowa Polana": 75
+  },
+  "Bobrowiecki Żleb": {
+    "Bobrowiecka Przełęcz": 5
+  }
+}
