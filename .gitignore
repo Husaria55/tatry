@@ -1,0 +1,16 @@
+
+cmake-build-*/
+build/
+out/
+
+
+.idea/
+
+
+*.exe
+*.o
+*.out
+*.app
+
+
+.DS_Store
